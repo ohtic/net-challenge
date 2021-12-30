@@ -6,7 +6,7 @@ En este repositorio podrás encontrar todo el material necesario para realizar l
 
 Desde Stark Industries nos han pedido un analizador de secuencias para poder incluirlo en las últimos trajes de la compañía.
 
-## **1.1 Requerimientos**
+## 1.1 Requerimientos
 
 El jefe de tecnología nos ha pedido que para dar como bueno el analizador debe cumplir los siguientes requerimientos:
 
@@ -40,7 +40,7 @@ Para poder entregar el proyecto en condiciones óptimas nos piden un fork del pr
 
 Una vez entregado el analizador, desde Stark quieren ser capaces de exponer su tecnología a cualquier cliente que quiera beneficiarse de ella, para esto han pensado en exponer una API para ser consumida fácilmente.
 
-## 2**.1 Requerimientos**
+## 2.1 Requerimientos
 
 Nos han entregado una API base, con algunos avances, debemos finalizarlo y para ello nos indican lo siguiente:
 
